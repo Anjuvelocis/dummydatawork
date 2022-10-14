@@ -1,0 +1,71 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "Id": 1,
+            "state": "Uttar Pradesh",
+            "stateCode": "U.P"
+        },
+        {
+            "Id": 2,
+            "state": "Madhya Pradesh",
+            "stateCode": "M.P"
+        },
+        {
+            "Id": 3,
+            "state": "Bihar",
+            "stateCode": ""
+        },
+        {
+            "Id": 4,
+            "state": "Delhi",
+            "stateCode": ""
+        },
+        {
+            "Id": 5,
+            "state": "Delhi",
+            "stateCode": ""
+        },
+        {
+            "Id": 6,
+            "state": "Assam",
+            "stateCode": ""
+        },
+        {
+            "Id": 7,
+            "state": "Assam",
+            "stateCode": ""
+        },
+        {
+            "Id": 8,
+            "state": "Haryana",
+            "stateCode": ""
+        },
+        {
+            "Id": 9,
+            "state": "Haryana",
+            "stateCode": ""
+        },
+        {
+            "Id": 10,
+            "state": "punjab",
+            "stateCode": ""
+        },
+        {
+            "Id": 11,
+            "state": "Keral",
+            "stateCode": "K"
+        },
+        {
+            "Id": 12,
+            "state": "Karnatka",
+            "stateCode": "KA"
+        },
+        {
+            "Id": 13,
+            "state": "Haryana",
+            "stateCode": "H"
+        }
+    ],
+    "message": "Successfully get All List"
+}
