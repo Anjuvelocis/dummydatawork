@@ -1,0 +1,24 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "Id": 1,
+            "state_id": 1,
+            "city": "noida",
+            "city_code": "N"
+        },
+        {
+            "Id": 2,
+            "state_id": 1,
+            "city": "Ncr",
+            "city_code": "N"
+        },
+        {
+            "Id": 7,
+            "state_id": 1,
+            "city": "Varanasi",
+            "city_code": "V"
+        }
+    ],
+    "message": "Successfully get City List"
+}
